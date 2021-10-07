@@ -10,6 +10,7 @@ public class CardTrick {
     {
        Card c = new Card();
        c.setSuit("Rizwan");
+        System.out.println(c.getSuit());
     }
     
 }
